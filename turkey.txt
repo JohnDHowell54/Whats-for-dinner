@@ -1,0 +1,10 @@
+Spaghetti
+	-Ground Turkey
+	-Spaghetti sauce
+	-Spaghetti noodles
+
+Turkey Burgers
+	-Ground turkey
+	-Cheese
+	-Panko/breading
+	-Eggs
