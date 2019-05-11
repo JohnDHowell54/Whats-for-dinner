@@ -1,11 +1,9 @@
-Stir fry
-	-Chicken Breast
-	-Onion
-	-Bell pepper
-	-Rice
-
 Crispy Chicken Sandwhich
 	-Chicken Breast
 	-Burger buns
 	-Cheese
 
+Sides
+	-Air fryer fries
+	-Roasted potatoes
+	-Coleslaw
