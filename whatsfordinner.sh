@@ -1,12 +1,6 @@
 #!/bin/bash
 
-#input="./chicken.txt"
+input="recipes/$(ls recipes | shuf -n 1)"
 
-recipes=(chicken.txt turkey.txt)
+cat $input | sendmail jonathandavidhowell@gmail.com
 
-input="${recipes[RANDOM%${#recipes[@]}]}"
-
-while IFS= read -r var
-do
-	echo "$var"
-done < "$input"
